@@ -1,0 +1,33 @@
+{
+  "name": "fill-tpl",
+  "version": "1.0.0",
+  "description": "Fill text template",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReeganExE/fill-tpl.git"
+  },
+  "keywords": [
+    "es6",
+    "fill",
+    "template",
+    "fill-template",
+    "Ninh Pham",
+    "ReeganExE"
+  ],
+  "author": "Ninh Pham (ReeganExE)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReeganExE/fill-tpl/issues"
+  },
+  "homepage": "https://github.com/ReeganExE/fill-tpl#readme",
+  "dependencies": {
+    "es6-dynamic-template": "^1.0.5"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
